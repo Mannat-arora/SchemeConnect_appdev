@@ -30,7 +30,7 @@ SchemeConnect is a native iOS application developed using **Swift** and **Xcode*
 1. Clone the repository
 
 ```bash
-git clone <your-github-link>
+git clone https://github.com/Mannat-arora/SchemeConnect_appdev
 ```
 
 2. Open in Xcode
